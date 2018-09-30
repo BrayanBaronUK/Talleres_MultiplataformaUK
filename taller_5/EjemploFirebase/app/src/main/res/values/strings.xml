@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploFirebase</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_coleccion_a" />
+    <string name="titulo_coleccion_b" />
+    <string name="titulo_coleccion_c" />
+</resources>
